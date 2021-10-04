@@ -1,0 +1,22 @@
+body{
+    height: 300px;
+    width: 300px;
+    background-color:yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#container{
+   display: inner-flex;
+   margin: auto 10px;
+   background-color:orangered;
+   color: #fff;
+   font-size: 20px;
+   border: 1px solid;
+   padding: 10px;
+   margin: auto;
+   border-radius:10px;
+}
+#reset{
+   margin-left: 110px;
+}
