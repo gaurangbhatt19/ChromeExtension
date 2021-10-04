@@ -6,9 +6,11 @@ body{
     align-items: center;
     justify-content: center;
 }
-#container{
+#container1{
    display: inner-flex;
    margin: auto 10px;
+   margin-left: 10px;
+   margin-right: 10px;
    background-color:orangered;
    color: #fff;
    font-size: 20px;
@@ -18,5 +20,11 @@ body{
    border-radius:10px;
 }
 #reset{
-   margin-left: 110px;
+   margin-left: 90px;
+   background-color: dodgerblue;
+   color:white;
+   border-radius:7px;
+   padding:2px;
+   width:100px;
+   height:30px;
 }
